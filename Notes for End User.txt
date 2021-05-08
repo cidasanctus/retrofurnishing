@@ -1,0 +1,18 @@
+As of the writing of this note, only these folders have textures:
+
+retroBathroom
+retroBedroom
+retroDiningroom
+retroKitchen
+retroLivingroom
+
+
+
+Blend files with the textures applied:
+
+retroLivingroom
+
+
+
+While every subfolder has an FBX file within them, at the moment they don't have the pathways to the texture files saved to them. Currently, you'll have to manually attach the textures to them within Blender or your program of choice. However as of the original writing of this note, in the retroLivingroom.blend file I, Cody, have already applied the textures to the models within. So if you don't want to spend the time manually applying all of the textures for living room furniture, just export them from the .blend file. Make sure you zero out the position of the parent object first, otherwise it might import to your program of choice far away from the 0, 0, 0 position. 
+Importing any of the existing FBX files will currently spawn at the 0, 0, 0 position, just without the textures already being applied. I'm working dilligently to get the rest of the .blend files to have textures applied and will list them above.
