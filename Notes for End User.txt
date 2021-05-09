@@ -1,3 +1,7 @@
+*IMPORTANT*
+when loading one of the blend files, do NOT turn on rendered view or material preview view. Blender may crash if you do.
+
+
 As of the writing of this note, only these folders have textures:
 
 retroBathroom
